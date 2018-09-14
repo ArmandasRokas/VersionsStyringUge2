@@ -10,7 +10,7 @@ public class Kinematics {
         double accelerationSpeed = 9.82; // m/s*s
 
         Scanner s = new Scanner(System.in);
-// test
+// test 1
         System.out.print("Enter altitude: ");
         altitude = s.nextDouble();
 
